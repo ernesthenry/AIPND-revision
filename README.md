@@ -1,7 +1,8 @@
 # AIPND-revision: Image Classification for a City Dog Show
 
 **Author / Programmer:** Kato Ernest Henry  
-**Date:** August 29, 2026  
+**Date Created:** August 29, 2026  
+**Revised Date:** August 29, 2026  
 **Program:** AI Programming with Python Nanodegree
 
 ---

@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Kato Ernest Henry
 # DATE CREATED: 29/08/2026                                 
-# REVISED DATE: 
+# REVISED DATE:
 # PURPOSE: Create a function adjust_results4_isadog that adjusts the results 
 #          dictionary to indicate whether or not the pet image label is of-a-dog, 
 #          and to indicate whether or not the classifier image label is of-a-dog.

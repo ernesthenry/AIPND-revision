@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Kato Ernest Henry
 # DATE CREATED: 29/08/2026                                 
-# REVISED DATE: 
+# REVISED DATE:
 # PURPOSE: Create a function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
 #          labels to the true pet labels. This function inputs:

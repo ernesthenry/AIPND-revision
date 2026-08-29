@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: 
 # DATE CREATED:
-# REVISED DATE: 
+# REVISED DATE:
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function print_results that prints the results statistics from the
 #          results statistics dictionary (results_stats_dic). It should also

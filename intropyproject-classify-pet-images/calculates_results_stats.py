@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: Kato Ernest Henry
 # DATE CREATED: 29/08/2026                                  
-# REVISED DATE: 
+# REVISED DATE: 29/08/2026
 # PURPOSE: Create a function calculates_results_stats that calculates the 
 #          statistics of the results of the programrun using the classifier's model 
 #          architecture to classify the images. This function will use the 

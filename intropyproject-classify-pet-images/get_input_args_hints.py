@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: 
 # DATE CREATED:                                   
-# REVISED DATE: 
+# REVISED DATE:
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function that retrieves the following 3 command line inputs from
 #          the user using the Argparse Python module. If the user fails to 

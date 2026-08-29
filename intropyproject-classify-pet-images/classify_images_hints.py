@@ -4,7 +4,7 @@
 #                                                                             
 # PROGRAMMER: 
 # DATE CREATED:                                 
-# REVISED DATE: 
+# REVISED DATE:
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function classify_images that uses the classifier function 
 #          to create the classifier labels and then compares the classifier 
