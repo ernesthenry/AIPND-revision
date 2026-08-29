@@ -67,10 +67,11 @@ def print_results(results_dic, results_stats_dic, model,
     print("{:20}: {:3d}".format('N Images', results_stats_dic['n_images']))
     print("{:20}: {:3d}".format('N Dog Images', results_stats_dic['n_dogs_img']))
     print("{:20}: {:3d}".format('N Not-Dog Images', results_stats_dic['n_notdogs_img']))
+    print("{:20}: {:3d}".format('N Match Labels', results_stats_dic.get('n_match', 0)))
 
     # Prints summary statistics (percentages) on Model Run
     print("\n*** Percentage Calculations ***")
-    for key in results_stats_dic:
+    for key in sorted(results_stats_dic.keys()):
         if key.startswith('pct'):
             print("{:20}: {:.1f}%".format(key, results_stats_dic[key]))
 
